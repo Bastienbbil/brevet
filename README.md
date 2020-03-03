@@ -1,6 +1,13 @@
-# Prediction of the success rate at the "Brevet des collèges"
+# Student challenge
 
-Every year in France, more than 800 000 students aged around 15 take a compulsory national exam, the "Brevet des collèges" which marks the end of four years of studies. The national average is 86.5% of success.  This project aims at predicting the average success rate at the brevet des colleges for each french public college and  identifying factors of the success of the best colleges and the degrees of flexibility of the government to reduce inequalities. 
+As part of the Data Camp course, within the <a href="https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/">University of Paris-Saclay Datascience
+Masters</a>, students were required to build a data challenge addressing
+some social/science/business problem using data obtained from external sources.
+This is one example of a student challenge, showcased on the ramp.studio server.
+
+# Prediction "Brevet des collèges" success rate
+
+Every year in France, more than 800 000 students aged around 15 take a compulsory national exam, the "Brevet des collèges" which marks the end of four years of studies. The national average is 86.5% of success.  This project aims at predicting the average success rate at the brevet des colleges for each french public college and  identifying factors of the success of the best colleges and the degrees of flexibility of the government to reduce inequalities.
 
 ## Set up
 
