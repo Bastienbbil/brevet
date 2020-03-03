@@ -1,4 +1,4 @@
-name: brevet_examen
+name: brevet
 channels:
   - defaults
   - conda-forge
