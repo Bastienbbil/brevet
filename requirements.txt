@@ -8,4 +8,3 @@ seaborn
 xgboost
 geopandas
 folium
-recordlinkage
