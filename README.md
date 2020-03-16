@@ -1,29 +1,28 @@
-# Prediction of the success rate at the "Brevet des collèges"
+# Student challenge
 
-Every year in France, more than 800 000 students aged around 15 take a compulsory national exam, the "Brevet des collèges" which marks the end of four years of studies. The national average is 86.5% of success.  This project aims at predicting the average success rate at the brevet des colleges for each french public college and  identifying factors of the success of the best colleges and the degrees of flexibility of the government to reduce inequalities. 
+Original authors: Cédric Allain - Alexis G. - Clotilde Miura - Artem Muliukov
 
-## Set up
+As part of the Data Camp course, within the [Data Science Masters at Institut Polytechnique
+de Paris in collaboration with University of
+Paris-Saclay](https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/),
+students were required to build a data challenge addressing some social/science/business
+problem using data obtained from external sources. This is one example of a student
+challenge, showcased on the ramp.studio server.
 
-Open a terminal and
+# Prediction "Brevet des collèges" success rate
 
-- install the ramp-workflow library (if not already done)
+Every year in France, more than 800 000 students aged around 15 take a compulsory national exam, the "Brevet des collèges" which marks the end of four years of studies. The national average is 86.5% of success.  This project aims at predicting the average success rate at the brevet des colleges for each french public college and  identifying factors of the success of the best colleges and the degrees of flexibility of the government to reduce inequalities.
 
-```
-pip install git+https://github.com/paris-saclay-cds/ramp-workflow.git
-```
-- Follow the ramp-kits instructions from the <a href='https://github.com/paris-saclay-cds/ramp-workflow/wiki/Getting-started-with-a-ramp-kit'>wiki</a>
+## Get started
 
-## Local notebook
+The [starting kit notebook](https://github.com/ramp-kits/brevet/blob/master/brevet_starting_kit.ipynb)
+provides more details on this challenge and exploratory analysis on the data used.
 
-- Get started on this RAMP with the <a href="https://github.com/CedricAllainEnsae/success-rates-brevet/blob/master/Starting_kit_taux-de-succes-brevet.ipynb"> starting kit notebook </a>
+To get started on this challenge follow the instructions
+[here](https://paris-saclay-cds.github.io/ramp-docs/ramp-workflow/stable/using_kits.html).
 
-- The notebook data_camp_get_data gives the scrapping code for the target.
-
-- WARNING: The maps are not visible in the notebook on the github because they are dynamic. So you need to run the notebook locally and  make sure you have an internet connection because they need to access some url on <a href='https://france-geojson.gregoiredavid.fr/' >FranceGeoJson</a> where some dynamic maps are held.
-To see the notebook correctly compiled with the dynamics maps, please click <a href='https://nbviewer.jupyter.org/github/CedricAllainEnsae/success-rates-brevet/blob/master/Starting_kit_taux-de-succes-brevet.ipynb'>here</a>.
-
-- To test the starting-kit, please run the following command
-
-```
-ramp_test_submission --starting_kit
-```
+**WARNING:** The maps are not visible in the notebook on github because they are dynamic.
+So you need to run the notebook locally and  make sure you have an internet connection
+because they need to access some url on [FranceGeoJson](https://france-geojson.gregoiredavid.fr/)
+where some dynamic maps are held. To see the notebook correctly compiled with
+the dynamics maps, please click [here](https://nbviewer.jupyter.org/github/ramp-kits/brevet/blob/master/brevet_starting_kit.ipynb).
