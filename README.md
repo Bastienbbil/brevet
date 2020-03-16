@@ -1,9 +1,13 @@
 # Student challenge
 
-As part of the Data Camp course, within the <a href="https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/">University of Paris-Saclay Datascience
-Masters</a>, students were required to build a data challenge addressing
-some social/science/business problem using data obtained from external sources.
-This is one example of a student challenge, showcased on the ramp.studio server.
+Original authors: Cédric Allain - Alexis G. - Clotilde Miura - Artem Muliukov
+
+As part of the Data Camp course, within the [Data Science Masters at Institut Polytechnique
+de Paris in collaboration with University of
+Paris-Saclay](https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/),
+students were required to build a data challenge addressing some social/science/business
+problem using data obtained from external sources. This is one example of a student
+challenge, showcased on the ramp.studio server.
 
 # Prediction "Brevet des collèges" success rate
 
@@ -11,13 +15,14 @@ Every year in France, more than 800 000 students aged around 15 take a compulsor
 
 ## Get started
 
-The <a href="https://github.com/ramp-kits/brevet/blob/master/brevet_starting_kit.ipynb">
-starting kit notebook</a> provides more details on this challenge and
-exploratory analysis on the data used.
+The [starting kit notebook](https://github.com/ramp-kits/brevet/blob/master/brevet_starting_kit.ipynb)
+provides more details on this challenge and exploratory analysis on the data used.
 
 To get started on this challenge follow the instructions
-<a href='https://paris-saclay-cds.github.io/ramp-docs/ramp-workflow/stable/using_kits.html'>
-here</a>.
+[here](https://paris-saclay-cds.github.io/ramp-docs/ramp-workflow/stable/using_kits.html).
 
-WARNING: The maps are not visible in the notebook on github because they are dynamic. So you need to run the notebook locally and  make sure you have an internet connection because they need to access some url on <a href='https://france-geojson.gregoiredavid.fr/' >FranceGeoJson</a> where some dynamic maps are held.
-To see the notebook correctly compiled with the dynamics maps, please click <a href='https://nbviewer.jupyter.org/github/CedricAllainEnsae/success-rates-brevet/blob/master/Starting_kit_taux-de-succes-brevet.ipynb'>here</a>.
+**WARNING:** The maps are not visible in the notebook on github because they are dynamic.
+So you need to run the notebook locally and  make sure you have an internet connection
+because they need to access some url on [FranceGeoJson](https://france-geojson.gregoiredavid.fr/)
+where some dynamic maps are held. To see the notebook correctly compiled with
+the dynamics maps, please click [here](https://nbviewer.jupyter.org/github/ramp-kits/brevet/blob/master/brevet_starting_kit.ipynb).
