@@ -3,7 +3,7 @@ matplotlib
 sklearn
 pandas
 jupyter
-git+https://github.com/paris-saclay-cds/ramp-workflow.git
+ramp-workflow
 seaborn
 xgboost
 geopandas
