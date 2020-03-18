@@ -5,6 +5,5 @@ pandas
 jupyter
 ramp-workflow
 seaborn
-xgboost
 geopandas
 folium
