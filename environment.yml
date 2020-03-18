@@ -1,16 +1,13 @@
 name: ramp-brevet
 channels:
   - defaults
-  - conda-forge
 dependencies:
   - numpy
   - scipy
   - pandas
   - scikit-learn
   - matplotlib
-  - spyder
   - seaborn
-  - xgboost
   - pip:
       - ramp-workflow
       - geopandas
