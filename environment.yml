@@ -1,4 +1,4 @@
-name: brevet
+name: ramp-brevet
 channels:
   - defaults
   - conda-forge
